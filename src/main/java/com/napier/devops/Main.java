@@ -1,4 +1,4 @@
-package com.napier.sem;
+package com.napier.devops;
 
 public class Main {
     public static void main(String[] args) {
