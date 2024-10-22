@@ -63,4 +63,8 @@ public class App
     {
         System.out.println("Hi it is testing period.");
     }
+    public int anotherReturnmethod()
+    {
+        return 1000;
+    }
 }
