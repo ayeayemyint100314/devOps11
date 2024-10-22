@@ -26,7 +26,7 @@ public class App
             try
             {
                 // Wait a bit for db to start
-                Thread.sleep(30000);
+                Thread.sleep(31000);
                 // Connect to database
                 con = DriverManager.getConnection("jdbc:mysql://world:3306/world?allowPublicKeyRetrieval=true&useSSL=false", "root", "example");
                 System.out.println("Successfully connected");
