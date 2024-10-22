@@ -67,4 +67,14 @@ public class App
     {
         return 1000;
     }
+
+    public void antoherMethodSecond()
+    {
+        System.out.println("Hi ifffffffffft is testing period.");
+    }
+    public int anotherReturnSecondmethod()
+    {
+        return 2000000;
+    }
+
 }
